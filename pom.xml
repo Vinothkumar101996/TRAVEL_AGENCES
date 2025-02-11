@@ -3,9 +3,7 @@
   <groupId>AVK_TRAVELS</groupId>
   <artifactId>TRAVEL_AGENCES</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  </properties>
-
-  <dependencyManagement>
+   <dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>org.junit</groupId>
@@ -49,4 +47,5 @@
       </plugins>
     </pluginManagement>
   </build>
+  
 </project>
